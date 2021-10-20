@@ -198,6 +198,13 @@
         "colour": "greenish to yellow",
         "meltingPoint_inDegreeCelsius": "18",
         "bolingPoint_inDegreeCelsius": "101"
+        
+        "id": 15,
+        "name": "sodium hypochlorite",
+        "molecular formula": "NaOCl",
+        "colour": "greenish to yellow",
+        "meltingPoint_inDegreeCelsius": "18",
+        "bolingPoint_inDegreeCelsius": "101"
     },
 
     {
